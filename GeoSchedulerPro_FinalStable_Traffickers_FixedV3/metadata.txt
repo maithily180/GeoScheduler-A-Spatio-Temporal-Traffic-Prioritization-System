@@ -1,0 +1,7 @@
+[general]
+name=GeoSchedulerPro_FinalStable_Traffickers_FixedV3
+qgisMinimumVersion=3.16
+description=GeoSchedulerPro full feature plugin v3: corrected GPKG writing for QGIS 3.40+, Corridor/CrossTraffic weights, GeoPackage outputs (OD routes, density points, junctions_weighted) and auto-visualization.
+version=1.7
+author=traffickers
+email=none@example.com
